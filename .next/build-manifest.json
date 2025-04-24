@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/about-creative": [
+    "/services-creative": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/about-creative.js"
+      "static/chunks/pages/services-creative.js"
     ]
   },
   "ampFirstPages": []
