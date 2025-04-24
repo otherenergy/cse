@@ -20,13 +20,13 @@ const Footer = ({ footerClass, type }) => {
             <div className="col-lg-7">
               <div className="text">
                 <h6 className="sub-title fw-400">Already interested!</h6>
-                <h4 className="fw-800">Do NOT think it over</h4>
+                <h4 className="fw-800">Don&lsquo;t wait and start now !</h4>
                 <p className="text-light">Tell us your vision, and we&lsquo;ll get in touch with next steps.</p>
               </div>
             </div>
             <div className="col-lg-5 valign">
               <div className="call-button full-width d-flex justify-content-end">
-                <a href="/contact-creative" className="butn butn-md bg-light radius-30">
+                <a href="#0" className="butn butn-md bg-light radius-30">
                   <span className="text text-dark slide-up">Get Started</span>
                   <span className="text text-dark slide-down">Get Started</span>
                 </a>
@@ -46,7 +46,7 @@ const Footer = ({ footerClass, type }) => {
                 </a>
               </div>
               <div className="text">
-                <p>Stay ahead in the rapidly evolving world and Benefit from our team's extensive experience and expertise.</p>
+                <p>Stay ahead in the rapidly evolving world and Benefit from our team with extensive experience and expertise.</p>
               </div>
               <div className="social circle-bord mt-30">
                 <ul className="rest horizontal-link">

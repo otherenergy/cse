@@ -1,13 +1,12 @@
 {
-  "name": "ravo_react",
+  "name": "CleanStarEnergyllc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "predev": "chmod +x node_modules/.bin/next",
-  "dev": "next dev",
-  "prebuild": "chmod +x node_modules/.bin/next",
-  "build": "next build",
-  "start": "next start"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
 },
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.0.0",

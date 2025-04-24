@@ -52,7 +52,7 @@ const Footer = ({ footerClass, footerBg, business, creative }) => {
                 </Link>
               </div>
               <div className="text">
-                <p>Stay ahead in the rapidly evolving world and Benefit from our team's extensive experience and expertise</p>
+                <p>Stay ahead in the rapidly evolving world and Benefit from our team with extensive experience and expertise</p>
               </div>
               <div className="social circle-bord mt-30">
                 <ul className="rest horizontal-link">

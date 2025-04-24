@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/services-creative": "pages/services-creative.js"
+  "/home-landing-3": "pages/home-landing-3.js",
+  "/about-creative": "pages/about-creative.js"
 }
